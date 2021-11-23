@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1> Hi <img src="https://raw.githubusercontent.com/coofcookie/coofcookie/master/wave.gif" width="30px"></h1>
 
-<!--
-**cdgco/cdgco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Carter Roeser and I'm a copmuter science student at Oregon State University.
 
-Here are some ideas to get you started:
+## My Languages
+![](https://img.shields.io/badge/Language-PHP-blue?style=flat-square)
+![](https://img.shields.io/badge/Language-JavaScript-blue?style=flat-square)
+![](https://img.shields.io/badge/Language-C-blue?style=flat-square)
+![](https://img.shields.io/badge/Language-C++-blue?style=flat-square)
+![](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stats
+
+<a href="https://github.com/cdgco">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cdgco&show_icons=true&line_height=27&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&include_all_commits=1&hide=contribs" />
+</a>
