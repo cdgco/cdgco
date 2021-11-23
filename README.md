@@ -1,6 +1,6 @@
 <h1> Hi <img src="https://raw.githubusercontent.com/coofcookie/coofcookie/master/wave.gif" width="30px"></h1>
 
-My name is Carter Roeser and I'm a computer science student at Oregon State University.
+My name is Carter Roeser and I'm a second year computer science student at Oregon State University.
 
 ## 🛠️ My favorite tools
 
