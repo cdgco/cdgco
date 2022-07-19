@@ -1,6 +1,5 @@
-<h1> Hi <img src="https://raw.githubusercontent.com/coofcookie/coofcookie/master/wave.gif" width="30px"></h1>
 
-My name is Carter Roeser and I'm a second year computer science student at Oregon State University. I love building APIs and web applications to solve problems. My software has been used by Oregon State University, the State of Oregon, and thousands of users and clients around the world, with over 3,000 downloads of Vesta Web Interface and over 1,000 downloads of my NPM modules.
+Hi! My name is Carter Roeser and I'm a computer science student at Oregon State University. I love building APIs and web applications to solve problems. My software has been used by Oregon State University, the State of Oregon, and thousands of users and clients around the world, with over 3,000 downloads of Vesta Web Interface and over 1,000 downloads of my NPM modules.
 
 ## My favorite tools
 
