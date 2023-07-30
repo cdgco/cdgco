@@ -1,5 +1,5 @@
 
-Hi! My name is Carter Roeser and I'm a computer science student at Oregon State University. I love building APIs and web applications to solve problems. My software has been used by Oregon State University, the State of Oregon, and thousands of users and clients around the world, with 3,000+ downloads of Vesta Web Interface and 20,000+ downloads of my NPM modules.
+Hi! My name is Carter Roeser and I'm a computer science student at Oregon State University. I love building APIs and web applications to solve problems. My software has been used by Oregon State University, the State of Oregon, and thousands of users and clients around the world, with 3,000+ downloads of Vesta Web Interface and ![NPM Downloads](https://img.shields.io/endpoint?style=flat-square&url=https://total-npm-downloads-z4gd154mf2ge.runkit.sh/?packages=dream-api,@cdgco/brand-buttons,@cdgco/01v-web-controller,warrantytool,techfont) downloads of my NPM modules.
 
 ## My favorite tools
 
