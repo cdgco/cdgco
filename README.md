@@ -1,7 +1,7 @@
 
 Hi! My name is Carter Roeser and I'm a computer science student at Oregon State University. I love building APIs and web applications to solve problems. My software has been used by Oregon State University, the State of Oregon, and thousands of users and clients around the world.
 
-![NPM Downloads](https://img.shields.io/endpoint?style=for-the-badge&label=Total%20NPM%20Module%20Downloads&url=https://total-npm-downloads-rd8xpzgoi85q.runkit.sh/?packages=dream-api,@cdgco/brand-buttons,@cdgco/01v-web-controller,warrantytool,techfont)
+![NPM Downloads](https://img.shields.io/endpoint?style=for-the-badge&label=Total%20NPM%20Module%20Downloads&url=https://total-npm-downloads-8wxa6o3y8gqa.runkit.sh/?packages=dream-api,@cdgco/brand-buttons,@cdgco/01v-web-controller,warrantytool,techfont)
 
 ![VWI Downloads](https://img.shields.io/github/downloads/cdgco/vestawebinterface/total?style=for-the-badge&label=Vesta%20Web%20Interface%20Downloads&)
 
