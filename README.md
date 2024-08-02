@@ -7,7 +7,7 @@ Hi! My name is Carter Roeser.
 </p>
 
 <a href="https://github.com/cdgco">
-  <img width="100%" height="320" align="center" src="https://githubrepostats-carter-roesers-projects.vercel.app/api/wakatime?username=cdgco&layout=compact&theme=city_lights&hide_border=true&bg_color=00000000&langs_count=18" />
+  <img width="100%" height="300" align="center" src="https://githubrepostats-carter-roesers-projects.vercel.app/api/wakatime?username=cdgco&layout=compact&theme=city_lights&hide_border=true&bg_color=00000000&langs_count=16" />
 </a>
 
 <!--START_SECTION:waka-->
