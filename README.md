@@ -6,6 +6,10 @@ Hi! My name is Carter Roeser.
   <img height="50%" width="auto" src ="https://githubrepostats-carter-roesers-projects.vercel.app/api/top-langs/?username=cdgco&layout=compact&hide_border=true&theme=city_lights&bg_color=00000000&langs_count=8&size_weight=0.5&count_weight=0.5">
 </p>
 
+<a href="https://github.com/cdgco">
+  <img width="100%" height="350" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cdgco&layout=compact&theme=city_lights&hide_border=true&bg_color=00000000&langs_count=20" />
+</a>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%2042%20mins-blue)
 
