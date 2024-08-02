@@ -94,8 +94,3 @@ Mac                      13 hrs 1 min        █████████░░�
     <a href="https://yarnpkg.com/"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white"></a>
 
 </p>
-
-## Currently Building
-* [rackmanage](https://rackmanage.io)
-* [rmagent](https://github.com/RackManage/agent)
-* [coetools](https://github.com/cdgco/coetools)
