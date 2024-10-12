@@ -19,13 +19,13 @@ Hi! My name is Carter Roeser.
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Terminal                 9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
