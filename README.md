@@ -11,21 +11,23 @@ Hi! My name is Carter Roeser.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C188%20hrs%201%20min-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       37 mins             ████████████████░░░░░░░░░   65.63 % 
+JavaScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Vue.js                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RackManage               57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 
