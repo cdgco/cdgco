@@ -11,7 +11,7 @@ Hi! My name is Carter Roeser.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2023%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
