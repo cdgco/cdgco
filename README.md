@@ -55,6 +55,7 @@ Mac                      51 hrs 4 mins       ███████████�
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"></a>
     <a href="https://www.ruby-lang.org/en/"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3078C6.svg?logo=TypeScript&logoColor=white"></a>
 </p>
 
 ### Frameworks & Libraries
