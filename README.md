@@ -13,7 +13,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </p>
 
 <a href="https://github.com/cdgco">
-  <img width="100%" height="300" align="center" src="https://github-readme-stats-nine-theta-60.vercel.app/api/wakatime?username=cdgco&layout=compact&theme=city_lights&hide_border=true&bg_color=00000000&langs_count=16" />
+  <img width="100%" height="300" align="center" src="https://github-readme-stats-nine-theta-60.vercel.app/api/wakatime?username=@cdgco&layout=compact&theme=city_lights&hide_border=true&bg_color=00000000&langs_count=16" />
 </a>
 
 <!--START_SECTION:waka-->
