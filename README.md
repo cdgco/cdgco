@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               8 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.01 % 
-Vue.js                   5 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.21 % 
-sh                       3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               7 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.98 % 
+Vue.js                   5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+sh                       3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-Cursor                   16 hrs              █████████████████████░░░░   83.03 % 
-Zsh                      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Cursor                   15 hrs 46 mins      █████████████████████░░░░   82.82 % 
+Zsh                      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🐱‍💻 Projects: 
-RackManage               10 hrs 57 mins      ██████████████░░░░░░░░░░░   56.85 % 
-RackManage-Firebase      6 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
-amplehelp                1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-observe                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Keycloak                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+RackManage               10 hrs 49 mins      ██████████████░░░░░░░░░░░   56.86 % 
+RackManage-Firebase      6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.90 % 
+amplehelp                1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+observe                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Keycloak                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      19 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
