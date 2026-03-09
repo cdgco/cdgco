@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C543%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C539%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               6 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.27 % 
-sh                       3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-HTML                     3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Vue.js                   2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TypeScript               7 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.46 % 
+sh                       4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+HTML                     3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Vue.js                   2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+JavaScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 52 mins      ███████████████████░░░░░░   77.66 % 
-Zsh                      3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Cursor                   14 hrs 40 mins      ██████████████████░░░░░░░   73.10 % 
+Zsh                      4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+VS Code                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🐱‍💻 Projects: 
-amplehelp                7 hrs 53 mins       ████████████░░░░░░░░░░░░░   47.59 % 
-RackManage               6 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.61 % 
-RackManage-Firebase      1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Royal Society 46         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-email                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+amplehelp                13 hrs 43 mins      █████████████████░░░░░░░░   68.33 % 
+RackManage               4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+RackManage-Firebase      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Royal Society 46         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+email                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Mac                      16 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
