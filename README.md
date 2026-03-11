@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               9 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.91 % 
-sh                       6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Vue.js                   3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-HTML                     3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+TypeScript               8 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
+sh                       6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Vue.js                   3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+HTML                     3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 15 mins      █████████████████░░░░░░░░   69.52 % 
-Zsh                      6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-VS Code                  1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Cursor                   16 hrs 53 mins      █████████████████░░░░░░░░   69.07 % 
+Zsh                      6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+VS Code                  1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🐱‍💻 Projects: 
-amplehelp                19 hrs 26 mins      ████████████████████░░░░░   78.36 % 
-RackManage               3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-RackManage-Firebase      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-email                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Delicate Person 62       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+amplehelp                19 hrs 26 mins      ████████████████████░░░░░   79.54 % 
+RackManage               3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+RackManage-Firebase      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+email                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Delicate Person 62       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Mac                      24 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
