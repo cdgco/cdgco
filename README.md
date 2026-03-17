@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               5 hrs 54 mins       █████████████░░░░░░░░░░░░   51.09 % 
-sh                       3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Vue.js                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               4 hrs 25 mins       █████████████░░░░░░░░░░░░   52.33 % 
+Vue.js                   1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+sh                       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 10 mins       ████████████████░░░░░░░░░   62.00 % 
-Zsh                      3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-VS Code                  1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Cursor                   5 hrs 57 mins       ██████████████████░░░░░░░   70.45 % 
+VS Code                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Zsh                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 
 🐱‍💻 Projects: 
-amplehelp                5 hrs 47 mins       ████████████░░░░░░░░░░░░░   50.00 % 
-webhooks                 2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-RackManage               2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-observe                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+RackManage               4 hrs 59 mins       ███████████████░░░░░░░░░░   59.11 % 
+webhooks                 2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+observe                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Delicate Person 62       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      11 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
