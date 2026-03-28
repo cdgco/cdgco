@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C596%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C595%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               16 hrs 5 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
-sh                       6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-PowerShell               4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-HTML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-CSS                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+TypeScript               16 hrs 5 mins       █████████████░░░░░░░░░░░░   50.76 % 
+sh                       6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+HTML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+CSS                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   40.32 % 
-VS Code                  14 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   40.26 % 
-Zsh                      6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Cursor                   14 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.99 % 
+VS Code                  10 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Zsh                      6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
 
 🐱‍💻 Projects: 
-webhooks                 14 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   41.00 % 
-RackManage               5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-observe                  4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Purple Mode 55           4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Sweet Flower 70          3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+webhooks                 14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.75 % 
+RackManage               5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+observe                  4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Sweet Flower 70          3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+RackManage-Cloudflare    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-Mac                      35 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 
