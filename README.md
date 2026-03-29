@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               16 hrs 5 mins       █████████████░░░░░░░░░░░░   50.76 % 
-sh                       6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-HTML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-CSS                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+TypeScript               8 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
+sh                       3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+CSS                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+HTML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.99 % 
-VS Code                  10 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Zsh                      6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Cursor                   8 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.50 % 
+VS Code                  7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.87 % 
+Zsh                      3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
 
 🐱‍💻 Projects: 
-webhooks                 14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.75 % 
-RackManage               5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-observe                  4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Sweet Flower 70          3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-RackManage-Cloudflare    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+webhooks                 13 hrs 40 mins      █████████████████░░░░░░░░   69.59 % 
+Sweet Flower 70          3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Terminal                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Wispy Theory 26          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Purple Mode 55           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Mac                      31 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
