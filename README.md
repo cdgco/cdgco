@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               8 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
-sh                       3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-CSS                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-HTML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+CSS                      1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+HTML                     1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+PowerShell               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+sh                       26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.50 % 
-VS Code                  7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.87 % 
-Zsh                      3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+VS Code                  5 hrs 11 mins       ██████████████████████░░░   88.44 % 
+Zsh                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Cursor                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🐱‍💻 Projects: 
-webhooks                 13 hrs 40 mins      █████████████████░░░░░░░░   69.59 % 
-Sweet Flower 70          3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Terminal                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Wispy Theory 26          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Purple Mode 55           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Sweet Flower 70          3 hrs 47 mins       ████████████████░░░░░░░░░   64.60 % 
+webhooks                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Wispy Theory 26          36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Purple Mode 55           30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Odd Poet 83              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Mac                      19 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
