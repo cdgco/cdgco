@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C596%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C596%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-CSS                      1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-HTML                     1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-PowerShell               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-sh                       26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+PowerShell               1 hr 1 min          ██████████████░░░░░░░░░░░   57.84 % 
+Other                    30 mins             ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+sh                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Image (svg)              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       ██████████████████████░░░   88.44 % 
-Zsh                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Cursor                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+VS Code                  1 hr 39 mins        ████████████████████████░   94.28 % 
+Zsh                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Cursor                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🐱‍💻 Projects: 
-Sweet Flower 70          3 hrs 47 mins       ████████████████░░░░░░░░░   64.60 % 
-webhooks                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Wispy Theory 26          36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Purple Mode 55           30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Odd Poet 83              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Purple Mode 55           42 mins             ██████████░░░░░░░░░░░░░░░   40.26 % 
+Wispy Theory 26          40 mins             ██████████░░░░░░░░░░░░░░░   38.14 % 
+Odd Poet 83              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+webhooks                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Sweet Flower 70          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 💻 Operating System: 
-Mac                      5 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 
