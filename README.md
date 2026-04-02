@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C598%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C597%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,23 +25,23 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-PowerShell               1 hr 40 mins        ███████████████████░░░░░░   74.46 % 
-Other                    30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+PHP                      1 hr 22 mins        ████████████░░░░░░░░░░░░░   49.34 % 
+PowerShell               1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.45 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Purple Mode 55           1 hr 21 mins        ███████████████░░░░░░░░░░   60.64 % 
-Wispy Theory 26          40 mins             ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-Odd Poet 83              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Delicate Person 62       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Wandering Town 40        1 hr 23 mins        ████████████░░░░░░░░░░░░░   49.41 % 
+Purple Mode 55           1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.45 % 
+Wispy Theory 26          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Delicate Person 62       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
