@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C598%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C598%20hrs%2043%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,23 +25,22 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-PHP                      1 hr 22 mins        ████████████░░░░░░░░░░░░░   49.34 % 
-PowerShell               1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.45 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+PHP                      1 hr 27 mins        █████████████░░░░░░░░░░░░   51.12 % 
+PowerShell               1 hr 20 mins        ████████████░░░░░░░░░░░░░   46.76 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Wandering Town 40        1 hr 23 mins        ████████████░░░░░░░░░░░░░   49.41 % 
-Purple Mode 55           1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.45 % 
-Wispy Theory 26          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Delicate Person 62       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Wandering Town 40        1 hr 27 mins        █████████████░░░░░░░░░░░░   51.19 % 
+Purple Mode 55           1 hr 20 mins        ████████████░░░░░░░░░░░░░   46.76 % 
+Wispy Theory 26          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 
