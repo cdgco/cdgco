@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C602%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C598%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,22 +25,24 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-PHP                      1 hr 27 mins        █████████████░░░░░░░░░░░░   51.12 % 
-PowerShell               1 hr 20 mins        ████████████░░░░░░░░░░░░░   46.76 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+HTML                     2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.18 % 
+PHP                      1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+PowerShell               1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+CSS                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Wandering Town 40        1 hr 27 mins        █████████████░░░░░░░░░░░░   51.19 % 
-Purple Mode 55           1 hr 20 mins        ████████████░░░░░░░░░░░░░   46.76 % 
-Wispy Theory 26          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Sweet Flower 70          3 hrs 42 mins       ██████████████░░░░░░░░░░░   56.62 % 
+Wandering Town 40        1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Purple Mode 55           1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Wispy Theory 26          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
