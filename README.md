@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C614%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C609%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-HTML                     2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Other                    2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-PHP                      1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-sh                       1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Other                    5 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+TypeScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+sh                       2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+HTML                     2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+PHP                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 32 mins       █████████████░░░░░░░░░░░░   50.15 % 
-Cursor                   4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.54 % 
-Zsh                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+VS Code                  8 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
+Cursor                   6 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
+Zsh                      3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
 
 🐱‍💻 Projects: 
-Sweet Flower 70          3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-MiniMailer               2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-VelocityMail             2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Wandering Town 40        1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Purple Mode 55           1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+VelocityMail             7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.75 % 
+Sweet Flower 70          3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+MiniMailer               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Wandering Town 40        1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Purple Mode 55           1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 💻 Operating System: 
-Mac                      13 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
