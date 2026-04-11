@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C637%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C632%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    14 hrs 19 mins      ███████████░░░░░░░░░░░░░░   42.06 % 
-TypeScript               7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-sh                       5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-HTML                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Other                    15 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.76 % 
+sh                       8 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+TypeScript               7 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 3 mins       █████████████░░░░░░░░░░░░   50.12 % 
-Zsh                      9 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-VS Code                  7 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Cursor                   19 hrs 44 mins      ██████████████░░░░░░░░░░░   55.51 % 
+Zsh                      11 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   33.31 % 
+VS Code                  3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 
 🐱‍💻 Projects: 
-VelocityMail             23 hrs 58 mins      ██████████████████░░░░░░░   70.43 % 
-Sweet Flower 70          3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-MiniMailer               2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-attention-server         1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-webhooks                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+VelocityMail             26 hrs 19 mins      ██████████████████░░░░░░░   73.98 % 
+MiniMailer               2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+observe                  1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+attention-server         1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+RackManage-Firebase      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Mac                      34 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      35 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
