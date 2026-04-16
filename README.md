@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C659%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C655%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,27 +25,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               8 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
-sh                       8 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-Other                    6 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-PHP                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+TypeScript               9 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
+sh                       8 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Other                    6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Vue.js                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+PHP                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 39 mins      █████████████░░░░░░░░░░░░   50.84 % 
-Zsh                      10 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   38.62 % 
-VS Code                  2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Unknown Editor           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Cursor                   18 hrs 24 mins      ██████████████░░░░░░░░░░░   57.80 % 
+Zsh                      10 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   33.40 % 
+VS Code                  2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Unknown Editor           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🐱‍💻 Projects: 
-VelocityMail             17 hrs 33 mins      ████████████████░░░░░░░░░   65.37 % 
-RackManage-Firebase      2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-observe                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Dawn Song 1              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Terminal                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+VelocityMail             16 hrs 58 mins      █████████████░░░░░░░░░░░░   53.32 % 
+RackManage-Firebase      4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+RackManage               4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+observe                  1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Dawn Song 1              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 💻 Operating System: 
-Mac                      26 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
