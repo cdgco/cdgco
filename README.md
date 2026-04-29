@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-JavaScript               2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-sh                       1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-YAML                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+JavaScript               2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
+TypeScript               1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+sh                       1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+YAML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.54 % 
-VS Code                  3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.24 % 
-Zsh                      1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Cursor                   3 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.78 % 
+VS Code                  2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.74 % 
+Zsh                      1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 
 🐱‍💻 Projects: 
-agent                    4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.36 % 
-Good Brook 3             2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Dawn Song 1              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-RackManage-Cloudflare    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-RackManage               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+agent                    3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
+Good Brook 3             2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+RackManage-Cloudflare    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+RackManage               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Terminal                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-Mac                      9 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
