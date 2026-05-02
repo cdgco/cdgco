@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C698%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C697%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,26 +25,25 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   38.76 % 
-TypeScript               55 mins             ████████░░░░░░░░░░░░░░░░░   31.91 % 
-sh                       22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Vue                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+TypeScript               1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.80 % 
+Vue                      53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+JavaScript               44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+sh                       34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-Cursor                   1 hr 53 mins        ████████████████░░░░░░░░░   65.39 % 
-VS Code                  37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Zsh                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Cursor                   2 hrs 41 mins       ██████████████████░░░░░░░   70.71 % 
+Zsh                      1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
 
 🐱‍💻 Projects: 
-RackManage               1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   40.43 % 
-RackManage-Cloudflare    44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Good Brook 3             36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Terminal                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-carter-portfolio         4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+RackManage               2 hrs 20 mins       ███████████████░░░░░░░░░░   61.77 % 
+RackManage-Cloudflare    44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+RackManage-Firebase      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Terminal                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+carter-portfolio         4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
