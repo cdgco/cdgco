@@ -25,25 +25,25 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               12 hrs 2 mins       ███████████░░░░░░░░░░░░░░   45.71 % 
-sh                       5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Vue                      3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Other                    2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-JavaScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+TypeScript               11 hrs 58 mins      ███████████░░░░░░░░░░░░░░   45.57 % 
+sh                       5 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Vue                      3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Other                    2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+JavaScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 12 mins      █████████████████░░░░░░░░   69.09 % 
-Zsh                      8 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Cursor                   18 hrs 8 mins       █████████████████░░░░░░░░   69.02 % 
+Zsh                      8 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
 
 🐱‍💻 Projects: 
-VelocityMail             17 hrs 49 mins      █████████████████░░░░░░░░   67.62 % 
-RackManage               4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-RackManage-Firebase      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-RackManage-Cloudflare    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Terminal                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+VelocityMail             17 hrs 49 mins      █████████████████░░░░░░░░   67.83 % 
+RackManage               4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+RackManage-Firebase      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+RackManage-Cloudflare    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Terminal                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
