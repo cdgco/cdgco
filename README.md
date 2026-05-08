@@ -25,25 +25,25 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               11 hrs 58 mins      ███████████░░░░░░░░░░░░░░   45.57 % 
-sh                       5 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Vue                      3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Other                    2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-JavaScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+TypeScript               11 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.66 % 
+sh                       5 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Vue                      3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Other                    2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 8 mins       █████████████████░░░░░░░░   69.02 % 
-Zsh                      8 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Cursor                   16 hrs 45 mins      █████████████████░░░░░░░░   66.82 % 
+Zsh                      8 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
 
 🐱‍💻 Projects: 
-VelocityMail             17 hrs 49 mins      █████████████████░░░░░░░░   67.83 % 
-RackManage               4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-RackManage-Firebase      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-RackManage-Cloudflare    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Terminal                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+VelocityMail             18 hrs 8 mins       ██████████████████░░░░░░░   72.34 % 
+RackManage               4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+RackManage-Firebase      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Terminal                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+webhooks                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Mac                      26 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
