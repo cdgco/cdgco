@@ -17,7 +17,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C726%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C726%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Svelte                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+sh                       52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Svelte                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       ██████████████░░░░░░░░░░░   56.45 % 
-Cursor                   54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Zsh                      53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+VS Code                  2 hrs 22 mins       ██████████████░░░░░░░░░░░   56.78 % 
+Cursor                   54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Zsh                      53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
 
 🐱‍💻 Projects: 
-Rough Future 9           1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   35.53 % 
-VelocityMail             56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Terminal                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Joyful Snow 73           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Rough Future 9           1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   35.27 % 
+VelocityMail             56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Terminal                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Joyful Snow 73           29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 💻 Operating System: 
-Mac                      4 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
