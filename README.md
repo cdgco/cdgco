@@ -25,22 +25,22 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+sh                       52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
 JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+TypeScript               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 Svelte                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       ██████████████░░░░░░░░░░░   56.78 % 
-Cursor                   54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+VS Code                  2 hrs 17 mins       ██████████████░░░░░░░░░░░   54.93 % 
+Cursor                   58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
 Zsh                      53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
 
 🐱‍💻 Projects: 
-Rough Future 9           1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   35.27 % 
-VelocityMail             56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Rough Future 9           1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
+VelocityMail             1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
 Terminal                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Joyful Snow 73           29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Joyful Snow 73           33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 💻 Operating System: 
