@@ -25,26 +25,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-TypeScript               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Svelte                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+sh                       43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Svelte                   39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+JSON                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+TypeScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       ██████████████░░░░░░░░░░░   54.93 % 
-Cursor                   58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Zsh                      53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+VS Code                  2 hrs 17 mins       ████████████████░░░░░░░░░   64.34 % 
+Zsh                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Cursor                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 
 🐱‍💻 Projects: 
-Rough Future 9           1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
-VelocityMail             1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Terminal                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Joyful Snow 73           33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Rough Future 9           1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.30 % 
+Terminal                 43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Joyful Snow 73           33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+VelocityMail             30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Unknown Project          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 💻 Operating System: 
-Mac                      4 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
