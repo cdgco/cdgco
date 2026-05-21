@@ -17,7 +17,33 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C736%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C736%20hrs%2043%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+sh                       7 mins              ███████████████░░░░░░░░░░   59.91 % 
+JavaScript               3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Svelte                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+
+🔥 Editors: 
+Zsh                      7 mins              ███████████████░░░░░░░░░░   59.91 % 
+Cursor                   3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+VS Code                  1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+
+🐱‍💻 Projects: 
+RackManage-Cloudflare    11 mins             █████████████████████░░░░   85.81 % 
+Joyful Snow 73           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+can-you-make-a-bash-scrip0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+
+💻 Operating System: 
+Mac                      13 mins             █████████████████████████   100.00 % 
+```
 
 
 <!--END_SECTION:waka-->
