@@ -2,8 +2,9 @@
 Hi! My name is Carter Roeser. I'm currently building:
 * AmpleHelp - AI Powered Knowledge Base: [amplehelp.com](https://amplehelp.com)
 * Rack Manage - Server Rack Designer & Inventory: [rackmanage.io](https://rackmanage.io)
+* Velocity Mail - Email authentication, deliverability, and testing platform: [velocitymail.io](https://velocitymail.io)
 * Observe Domains - Domain Registration & SSL Cert Monitoring: [observe.domains](https://observe.domains)
-* HookHQ - Open-Source Cloudflare Workers Webhooks-as-a-service [hookhq.dev](https://hookhq.dev)
+* HookHQ - Open-Source Cloudflare Workers Webhooks-as-a-service: [hookhq.dev](https://hookhq.dev)
 
 <hr>
 
