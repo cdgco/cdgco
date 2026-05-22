@@ -18,7 +18,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C736%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C737%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,24 +26,24 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       7 mins              ███████████████░░░░░░░░░░   59.91 % 
-JavaScript               3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Svelte                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+sh                       25 mins             ████████████████░░░░░░░░░   64.67 % 
+JavaScript               13 mins             ████████░░░░░░░░░░░░░░░░░   33.76 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Zsh                      7 mins              ███████████████░░░░░░░░░░   59.91 % 
-Cursor                   3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-VS Code                  1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Zsh                      25 mins             ████████████████░░░░░░░░░   64.67 % 
+Cursor                   13 mins             █████████░░░░░░░░░░░░░░░░   35.02 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-RackManage-Cloudflare    11 mins             █████████████████████░░░░   85.81 % 
-Joyful Snow 73           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-can-you-make-a-bash-scrip0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+RackManage-Cloudflare    38 mins             ████████████████████████░   96.73 % 
+Terminal                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Purple Mode 55           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 
