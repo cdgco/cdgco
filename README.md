@@ -18,7 +18,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C761%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C752%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,26 +26,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               6 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
-sh                       4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+TypeScript               8 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+sh                       6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Markdown                 2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+YAML                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 43 mins       ███████████████░░░░░░░░░░   59.42 % 
-Zsh                      5 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.44 % 
-VS Code                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Cursor                   16 hrs 14 mins      ████████████████░░░░░░░░░   65.06 % 
+Zsh                      7 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
+VS Code                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🐱‍💻 Projects: 
-VelocityMail             13 hrs 51 mins      █████████████████████░░░░   84.67 % 
-Terminal                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-RackManage-Cloudflare    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Purple Mode 55           34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Cool Hill 43             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+VelocityMail             21 hrs 19 mins      █████████████████████░░░░   85.47 % 
+Terminal                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+RackManage-Cloudflare    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Purple Mode 55           34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Cool Hill 43             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
