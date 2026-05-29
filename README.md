@@ -18,6 +18,36 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C775%20hrs%2032%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+TypeScript               8 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+sh                       8 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+JavaScript               6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Other                    3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Markdown                 2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 14 mins      ███████████░░░░░░░░░░░░░░   44.97 % 
+Zsh                      12 hrs              ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Cursor                   9 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+
+🐱‍💻 Projects: 
+VelocityMail             24 hrs              ████████████████░░░░░░░░░   62.60 % 
+Haraka                   6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Terminal                 3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+New project              1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+amplehelp                49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+
+💻 Operating System: 
+Mac                      38 hrs 21 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
