@@ -18,7 +18,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C785%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C781%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,26 +26,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       8 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-TypeScript               7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-JavaScript               6 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Markdown                 2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other                    2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+JavaScript               6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+TypeScript               5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+sh                       5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Vue                      4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Other                    2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 17 mins      ███████████░░░░░░░░░░░░░░   44.88 % 
-Zsh                      12 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   33.56 % 
-Cursor                   7 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+VS Code                  14 hrs 50 mins      ████████████░░░░░░░░░░░░░   46.80 % 
+Zsh                      8 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+Cursor                   8 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
 
 🐱‍💻 Projects: 
-VelocityMail             20 hrs 22 mins      ██████████████░░░░░░░░░░░   56.16 % 
-Haraka                   6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-amplehelp                3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Terminal                 2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-New project              1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+VelocityMail             12 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   38.65 % 
+Haraka                   6 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+RackManage               4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+amplehelp                3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Terminal                 2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 💻 Operating System: 
-Mac                      36 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
