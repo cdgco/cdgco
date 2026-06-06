@@ -26,26 +26,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               5 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.27 % 
-Vue                      4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.51 % 
-sh                       53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Vue                      4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.39 % 
+TypeScript               4 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.95 % 
+Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.76 % 
-VS Code                  5 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
-Zsh                      2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Cursor                   6 hrs 43 mins       ███████████████░░░░░░░░░░   61.50 % 
+VS Code                  3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Zsh                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🐱‍💻 Projects: 
-RackManage               6 hrs 49 mins       ████████████░░░░░░░░░░░░░   47.79 % 
-VelocityMail             2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-RackManage-Firebase      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-amplehelp                1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Purple Mode 55           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+RackManage               6 hrs 53 mins       ████████████████░░░░░░░░░   62.93 % 
+RackManage-Firebase      2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+VelocityMail             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Purple Mode 55           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+can-you-read-this-https-s13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
