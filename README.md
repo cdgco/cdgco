@@ -18,7 +18,36 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2052%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+TypeScript               1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+sh                       1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+JavaScript               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+CSV                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.07 % 
+Cursor                   2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Zsh                      2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Devin                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+
+🐱‍💻 Projects: 
+RackManage-Firebase      4 hrs 6 mins        ██████████████░░░░░░░░░░░   55.96 % 
+RackManage               1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+RackManage-Cloudflare    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Purple Mode 55           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+VelocityMail             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+
+💻 Operating System: 
+Mac                      7 hrs 20 mins       █████████████████████████   100.00 % 
+```
 
 
 <!--END_SECTION:waka-->
