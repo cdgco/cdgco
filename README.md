@@ -18,7 +18,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,19 +26,23 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       15 mins             ████████████████████████░   96.40 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    5 mins              ██████████████████░░░░░░░   71.52 % 
+sh                       1 min               █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-Zsh                      15 mins             ████████████████████████░   96.40 % 
-Devin                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Cursor                   5 mins              ██████████████████░░░░░░░   70.28 % 
+Zsh                      1 min               █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Devin                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 
 🐱‍💻 Projects: 
-Terminal                 15 mins             ████████████████████████░   96.40 % 
-RackManage-Firebase      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+RackManage-Firebase      5 mins              █████████████████░░░░░░░░   66.72 % 
+amplehelp                2 mins              ████████░░░░░░░░░░░░░░░░░   33.28 % 
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 
