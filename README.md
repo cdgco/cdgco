@@ -26,23 +26,20 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    5 mins              ██████████████████░░░░░░░   71.52 % 
-sh                       1 min               █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+sh                       1 min               ██████████████████░░░░░░░   72.97 % 
+HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-Cursor                   5 mins              ██████████████████░░░░░░░   70.28 % 
-Zsh                      1 min               █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Devin                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Zsh                      1 min               ██████████████████░░░░░░░   72.97 % 
+Cursor                   0 secs              ███████░░░░░░░░░░░░░░░░░░   27.03 % 
 
 🐱‍💻 Projects: 
-RackManage-Firebase      5 mins              █████████████████░░░░░░░░   66.72 % 
-amplehelp                2 mins              ████████░░░░░░░░░░░░░░░░░   33.28 % 
+amplehelp                2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 
