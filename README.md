@@ -18,7 +18,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%2042%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,20 +26,24 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       1 min               ██████████████████░░░░░░░   72.97 % 
-HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+INI                      16 mins             ██████████████████████░░░   88.54 % 
+sh                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Zsh                      1 min               ██████████████████░░░░░░░   72.97 % 
-Cursor                   0 secs              ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+VS Code                  16 mins             ██████████████████████░░░   88.54 % 
+Zsh                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🐱‍💻 Projects: 
-amplehelp                2 mins              █████████████████████████   100.00 % 
+Sweet Arm 96             13 mins             █████████████████░░░░░░░░   68.86 % 
+bakery                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+amplehelp                2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 
