@@ -26,27 +26,24 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       ██████████████░░░░░░░░░░░   57.66 % 
-JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-INI                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+TypeScript               2 hrs 20 mins       ███████████████░░░░░░░░░░   58.18 % 
+JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+INI                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        ███████████████████░░░░░░   76.39 % 
-Claude Code              55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  3 hrs 5 mins        ███████████████████░░░░░░   77.08 % 
+Claude Code              55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 
 🐱‍💻 Projects: 
-Icy Poet 33              3 hrs 18 mins       ████████████████████░░░░░   81.67 % 
-Old Sky 3                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Sweet Arm 96             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-bakery                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-amplehelp                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Icy Poet 33              3 hrs 18 mins       █████████████████████░░░░   82.41 % 
+Old Sky 3                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Sweet Arm 96             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+bakery                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 Operating System: 
-Mac                      4 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
