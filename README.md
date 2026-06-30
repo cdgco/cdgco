@@ -26,24 +26,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       ███████████████░░░░░░░░░░   58.18 % 
-JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-INI                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+TypeScript               2 hrs 20 mins       ██████████████░░░░░░░░░░░   56.95 % 
+JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+INI                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        ███████████████████░░░░░░   77.08 % 
-Claude Code              55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+VS Code                  3 hrs 5 mins        ███████████████████░░░░░░   75.46 % 
+Claude Code              55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Cursor                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🐱‍💻 Projects: 
-Icy Poet 33              3 hrs 18 mins       █████████████████████░░░░   82.41 % 
-Old Sky 3                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Sweet Arm 96             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-bakery                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Icy Poet 33              3 hrs 18 mins       ████████████████████░░░░░   80.67 % 
+Old Sky 3                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Sweet Arm 96             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+bakery                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+RackManage-Firebase      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
