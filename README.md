@@ -18,7 +18,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C807%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C806%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,27 +26,22 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       ██████████████░░░░░░░░░░░   57.12 % 
-JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-sh                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+sh                       12 mins             ███████████░░░░░░░░░░░░░░   44.48 % 
+Bash                     11 mins             ██████████░░░░░░░░░░░░░░░   41.25 % 
+Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████░░░░░░░░   69.85 % 
-Claude Code              55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Zsh                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Cursor                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+VS Code                  15 mins             ██████████████░░░░░░░░░░░   55.39 % 
+Zsh                      12 mins             ███████████░░░░░░░░░░░░░░   44.61 % 
 
 🐱‍💻 Projects: 
-Icy Poet 33              3 hrs 18 mins       ████████████████████░░░░░   80.91 % 
-Old Sky 3                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Terminal                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-RackManage-Firebase      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Terminal                 12 mins             ███████████░░░░░░░░░░░░░░   44.48 % 
+Old Sky 3                12 mins             ███████████░░░░░░░░░░░░░░   44.03 % 
+qb-sso                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 
