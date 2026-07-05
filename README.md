@@ -18,7 +18,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C807%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C807%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,22 +26,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       12 mins             ███████████░░░░░░░░░░░░░░   44.48 % 
-Bash                     11 mins             ██████████░░░░░░░░░░░░░░░   41.25 % 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Vue                      32 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
+sh                       17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+JavaScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
 
 🔥 Editors: 
-VS Code                  15 mins             ██████████████░░░░░░░░░░░   55.39 % 
-Zsh                      12 mins             ███████████░░░░░░░░░░░░░░   44.61 % 
+VS Code                  59 mins             ███████████████░░░░░░░░░░   61.19 % 
+Zsh                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Devin                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
 
 🐱‍💻 Projects: 
-Terminal                 12 mins             ███████████░░░░░░░░░░░░░░   44.48 % 
-Old Sky 3                12 mins             ███████████░░░░░░░░░░░░░░   44.03 % 
-qb-sso                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+RackManage               55 mins             ██████████████░░░░░░░░░░░   56.32 % 
+RackManage-Cloudflare    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Terminal                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Old Sky 3                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+qb-sso                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 
