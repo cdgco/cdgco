@@ -18,7 +18,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C819%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C816%20hrs%2045%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,27 +26,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               3 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.36 % 
-Vue                      1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Java                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-JavaScript               1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+TypeScript               6 hrs               ████████████░░░░░░░░░░░░░   49.52 % 
+Java                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Vue                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 51 mins       ███████████████░░░░░░░░░░   60.28 % 
-Devin                    2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Zsh                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Claude Code              38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+VS Code                  7 hrs 8 mins        ███████████████░░░░░░░░░░   58.95 % 
+Devin                    2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Zsh                      1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Claude Code              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🐱‍💻 Projects: 
-VelocityMail             3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.34 % 
-RackManage               2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Old Sky 3                2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-RackManage-Cloudflare    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Icy Poet 33              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+VelocityMail             6 hrs 8 mins        █████████████░░░░░░░░░░░░   50.65 % 
+Old Sky 3                2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+RackManage               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+RackManage-Cloudflare    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+amplehelp                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 💻 Operating System: 
-Mac                      9 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
