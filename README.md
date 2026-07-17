@@ -18,7 +18,7 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C829%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C831%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,27 +26,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.44 % 
-Java                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-sh                       1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Markdown                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+TypeScript               6 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.18 % 
+sh                       2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Java                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Markdown                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 29 mins       ███████████████░░░░░░░░░░   61.65 % 
-Zsh                      3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Devin                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Claude Code              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+VS Code                  9 hrs 24 mins       ███████████████░░░░░░░░░░   60.44 % 
+Zsh                      3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+Devin                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Claude Code              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🐱‍💻 Projects: 
-VelocityMail             9 hrs 53 mins       ████████████████░░░░░░░░░   64.23 % 
-Old Sky 3                3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Icy Poet 33              1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-amplehelp                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-observe                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+VelocityMail             10 hrs 19 mins      █████████████████░░░░░░░░   66.27 % 
+Old Sky 3                2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Icy Poet 33              1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+amplehelp                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+observe                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 Operating System: 
-Mac                      15 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
