@@ -26,27 +26,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               4 hrs 14 mins       ██████████████████░░░░░░░   72.51 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-INI                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+TypeScript               3 hrs 57 mins       ██████████████████░░░░░░░   73.04 % 
+Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+INI                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 39 mins       ████████████████████░░░░░   79.78 % 
-Claude Code              47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Devin                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Zsh                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+VS Code                  4 hrs 29 mins       █████████████████████░░░░   82.91 % 
+Claude Code              47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Devin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Zsh                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🐱‍💻 Projects: 
-Icy Poet 33              4 hrs 57 mins       █████████████████████░░░░   84.91 % 
-VelocityMail             28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Downloads                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-amplehelp                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-qb-ai-studio             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Icy Poet 33              4 hrs 57 mins       ███████████████████████░░   91.67 % 
+Downloads                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+amplehelp                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+qb-ai-studio             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+VelocityMail             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Mac                      5 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
