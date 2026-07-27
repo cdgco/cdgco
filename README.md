@@ -18,7 +18,9 @@ Hi! My name is Carter Roeser. I'm currently building:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C837%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C763%20hrs%208%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-133%20hrs%2036%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,6 +45,30 @@ Downloads                12 mins             ██░░░░░░░░░�
 
 💻 Operating System: 
 Mac                      3 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 17 mins (37.29%)
+
+✍️ 921 lines written by AI, 31 lines written by hand (96.74% AI-written)
+
+🔤 22,064,805 Input Tokens, 93,480 Output Tokens
+
+💵 $134.30 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 32 AI Prompts
+
+GPT                      968 lines           ████████████████████████░   95.84 % 
+Opus                     34 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Sonnet                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.74% of written lines came from AI
+📚 Verbose Prompter — average 2,459 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 6.66% of changed lines were hand-edited
 ```
 
 
