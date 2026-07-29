@@ -28,50 +28,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               1 hr 51 mins        ████████████████░░░░░░░░░   63.68 % 
-Markdown                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+XML                      2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 42 mins       ███████████████████████░░   92.49 % 
-Claude Code              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Devin                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+VS Code                  1 min               ███████████░░░░░░░░░░░░░░   45.01 % 
+Claude Code              0 secs              ████████░░░░░░░░░░░░░░░░░   30.28 % 
+Devin                    0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
 
 🐱‍💻 Projects: 
-Icy Poet 33              2 hrs 40 mins       ███████████████████████░░   91.28 % 
-Downloads                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Old Sky 3                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-qb-sso                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Unknown Project          2 mins              █████████████████████░░░░   84.23 % 
+Old Sky 3                0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+qb-sso                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 💻 Operating System: 
-Mac                      2 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (37.99%)
-
-✍️ 808 lines written by AI, 246 lines written by hand (76.66% AI-written)
-
-🔤 20,468,992 Input Tokens, 78,101 Output Tokens
-
-💵 $127.78 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 30 AI Prompts
-
-GPT                      855 lines           ████████████████████████░   95.32 % 
-Opus                     34 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Sonnet                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 76.66% of written lines came from AI
-📚 Verbose Prompter — average 1,607 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 76.43% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
