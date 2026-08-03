@@ -28,43 +28,24 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               8 mins              ███████████████████░░░░░░   76.93 % 
-XML                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+XML                      2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Devin                    7 mins              ████████████████░░░░░░░░░   65.20 % 
-VS Code                  4 mins              █████████░░░░░░░░░░░░░░░░   34.80 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RackManage-Firebase      8 mins              ███████████████████░░░░░░   76.93 % 
-Unknown Project          2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Old Sky 3                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-qb-sso                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Unknown Project          2 mins              █████████████████████░░░░   84.23 % 
+Old Sky 3                0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+qb-sso                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (76.93%)
-
-✍️ 481 lines written by AI, 236 lines written by hand (67.09% AI-written)
-
-🔤 1,213,462 Input Tokens, 17,607 Output Tokens
-
-💵 $5.77 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-GPT                      494 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 67.09% of written lines came from AI
-📄 Detailed Prompter — average 695 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 83.98% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
