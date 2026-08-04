@@ -28,18 +28,16 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-XML                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████░░░░   84.23 % 
-Old Sky 3                0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-qb-sso                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
