@@ -28,22 +28,41 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-INI                      0 secs              █████████████████████████   100.00 % 
+INI                      10 mins             ████████████████░░░░░░░░░   64.47 % 
+Markdown                 5 mins              █████████░░░░░░░░░░░░░░░░   35.53 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  12 mins             ████████████████████░░░░░   79.86 % 
+Devin                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
 
 🐱‍💻 Projects: 
-Old Sky 3                0 secs              █████████████████████████   100.00 % 
+Old Sky 3                10 mins             ████████████████░░░░░░░░░   64.47 % 
+RackManage-Firebase      5 mins              █████████░░░░░░░░░░░░░░░░   35.53 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 mins (35.53%)
+
+✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,490,762 Input Tokens, 11,500 Output Tokens
+
+💵 $2.65 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+GPT                      1 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
