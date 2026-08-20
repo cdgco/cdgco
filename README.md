@@ -14,10 +14,20 @@ Hi! My name is Carter Roeser. I'm currently building:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C763%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C763%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-133%20hrs%2042%20mins-blue?style=flat)
+**🐱 My GitHub Data** 
 
+> 📦 380.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,130 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 32 Private Repositories 
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -39,28 +49,6 @@ Unknown Project          3 mins              ████░░░░░░░�
 
 💻 Operating System: 
 Mac                      18 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 mins (29.83%)
-
-✍️ 1 lines written by AI, 37 lines written by hand (2.63% AI-written)
-
-🔤 1,490,762 Input Tokens, 11,500 Output Tokens
-
-💵 $2.65 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-GPT                      1 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.63% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 97.44% of changed lines were hand-edited
 ```
 
 
