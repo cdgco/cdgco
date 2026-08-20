@@ -16,18 +16,6 @@ Hi! My name is Carter Roeser. I'm currently building:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C763%20hrs%2029%20mins-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 380.5 kB Used in GitHub's Storage 
- > 
-> 🏆 1,130 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 42 Public Repositories 
- > 
-> 🔑 32 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -50,6 +38,18 @@ Unknown Project          3 mins              ████░░░░░░░�
 💻 Operating System: 
 Mac                      18 mins             █████████████████████████   100.00 % 
 ```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Vue                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
 
 
 <!--END_SECTION:waka-->
