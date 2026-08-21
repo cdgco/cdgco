@@ -20,21 +20,22 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-INI                      10 mins             ██████████████░░░░░░░░░░░   54.13 % 
-Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-HTML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+HTML                     59 mins             ████████████████████░░░░░   80.03 % 
+INI                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████░░░░   83.09 % 
-Devin                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+VS Code                  1 hr 10 mins        ████████████████████████░   95.73 % 
+Devin                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🐱‍💻 Projects: 
-Old Sky 3                10 mins             ██████████████░░░░░░░░░░░   54.13 % 
-RackManage-Firebase      5 mins              ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-Unknown Project          3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Old Sky 3                59 mins             ████████████████████░░░░░   80.46 % 
+qb-sso                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+RackManage-Firebase      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
