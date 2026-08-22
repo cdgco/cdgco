@@ -20,22 +20,25 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-HTML                     59 mins             ████████████████████░░░░░   80.03 % 
-INI                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+HTML                     59 mins             ███████████████░░░░░░░░░░   61.42 % 
+PHP                      25 mins             ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        ████████████████████████░   95.73 % 
-Devin                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+VS Code                  1 hr 18 mins        ████████████████████░░░░░   81.38 % 
+Claude Code              17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 
 🐱‍💻 Projects: 
-Old Sky 3                59 mins             ████████████████████░░░░░   80.46 % 
-qb-sso                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-RackManage-Firebase      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Old Sky 3                50 mins             █████████████░░░░░░░░░░░░   52.20 % 
+Wandering Town 40        25 mins             ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+Dawn Song 1              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+qb-sso                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
