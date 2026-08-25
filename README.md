@@ -10,7 +10,6 @@ Hi! My name is Carter Roeser. I'm currently building:
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-nine-theta-60.vercel.app/api?username=cdgco&show_icons=true&count_private=true&theme=city_lights&hide_border=true&bg_color=00000000&line_height=29&include_all_commits=1&hide=contribs">
-  <img height="50%" width="auto" src ="https://github-readme-stats-nine-theta-60.vercel.app/api/top-langs/?username=cdgco&layout=compact&hide_border=true&theme=city_lights&bg_color=00000000&langs_count=8&size_weight=0.5&count_weight=0.5">
 </p>
 
 <!--START_SECTION:waka-->
