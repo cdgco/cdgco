@@ -19,25 +19,25 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-HTML                     59 mins             ███████████████░░░░░░░░░░   61.42 % 
-PHP                      25 mins             ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+HTML                     1 hr 3 mins         ███████████████░░░░░░░░░░   60.49 % 
+PHP                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        ████████████████████░░░░░   81.38 % 
-Claude Code              17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+VS Code                  1 hr 23 mins        ████████████████████░░░░░   78.70 % 
+Claude Code              22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
 
 🐱‍💻 Projects: 
-Old Sky 3                50 mins             █████████████░░░░░░░░░░░░   52.20 % 
-Wandering Town 40        25 mins             ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-Dawn Song 1              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-qb-sso                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Old Sky 3                54 mins             █████████████░░░░░░░░░░░░   51.94 % 
+Wandering Town 40        27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Dawn Song 1              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+qb-sso                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
