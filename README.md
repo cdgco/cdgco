@@ -19,27 +19,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               5 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-Markdown                 3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-sh                       1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Other                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Bash                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+TypeScript               5 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Markdown                 3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+sh                       1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Bash                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.83 % 
-Devin                    5 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
-Zsh                      3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.77 % 
+Devin                    5 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.74 % 
+Zsh                      3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
 
 🐱‍💻 Projects: 
-VelocityMail             16 hrs 6 mins       ███████████████████████░░   92.87 % 
-Terminal                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Wandering Town 40        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Old Sky 3                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VelocityMail             16 hrs 6 mins       ███████████████████████░░   93.70 % 
+Terminal                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Cool Hill 43             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Wandering Town 40        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Mac                      17 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
