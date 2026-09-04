@@ -19,26 +19,25 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-Markdown                 3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-sh                       2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Bash                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Other                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+TypeScript               5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Markdown                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+sh                       1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Bash                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.29 % 
-Devin                    5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Zsh                      4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+VS Code                  7 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.17 % 
+Devin                    4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Zsh                      3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
 
 🐱‍💻 Projects: 
-VelocityMail             16 hrs 33 mins      ███████████████████████░░   92.75 % 
-Terminal                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Wandering Town 40        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Cool Hill 43             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VelocityMail             14 hrs 42 mins      ████████████████████████░   94.85 % 
+Terminal                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Cool Hill 43             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+amplehelp                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      17 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
