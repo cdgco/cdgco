@@ -19,24 +19,23 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               5 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.62 % 
-Markdown                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-sh                       1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Bash                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+TypeScript               2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.24 % 
+Markdown                 1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+sh                       1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Bash                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 10 mins       ████████████░░░░░░░░░░░░░   49.42 % 
-Zsh                      3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-Devin                    3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+VS Code                  2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.77 % 
+Zsh                      1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.46 % 
+Devin                    1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
 
 🐱‍💻 Projects: 
-VelocityMail             13 hrs 47 mins      ████████████████████████░   95.09 % 
-Terminal                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-amplehelp                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+VelocityMail             4 hrs 41 mins       ██████████████████████░░░   89.95 % 
+Terminal                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 💻 Operating System: 
-Mac                      14 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
