@@ -19,23 +19,16 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.24 % 
-Markdown                 1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-sh                       1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Bash                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.77 % 
-Zsh                      1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.46 % 
-Devin                    1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VelocityMail             4 hrs 41 mins       ██████████████████████░░░   89.95 % 
-Terminal                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
