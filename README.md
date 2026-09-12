@@ -19,16 +19,23 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JSON                     2 mins              █████████████████████████   100.00 % 
+YAML                     5 mins              ███████████░░░░░░░░░░░░░░   42.13 % 
+TypeScript               3 mins              ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+JSON                     3 mins              ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+Claude Code              8 mins              ███████████████░░░░░░░░░░   58.65 % 
+VS Code                  6 mins              ██████████░░░░░░░░░░░░░░░   41.35 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.00 % 
+Dawn Song 1              5 mins              ███████████░░░░░░░░░░░░░░   42.13 % 
+Icy Poet 33              3 mins              ████████░░░░░░░░░░░░░░░░░   31.50 % 
+Unknown Project          2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Purple Mode 55           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
