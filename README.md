@@ -19,23 +19,28 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     5 mins              ███████████░░░░░░░░░░░░░░   42.13 % 
-TypeScript               3 mins              ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-JSON                     3 mins              ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Vue                      1 hr 38 mins        ████████████████░░░░░░░░░   62.01 % 
+YAML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+TypeScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+sh                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-Claude Code              8 mins              ███████████████░░░░░░░░░░   58.65 % 
-VS Code                  6 mins              ██████████░░░░░░░░░░░░░░░   41.35 % 
+Codex Vscode             1 hr 12 mins        ███████████░░░░░░░░░░░░░░   44.55 % 
+VS Code                  1 hr 4 mins         ██████████░░░░░░░░░░░░░░░   39.56 % 
+Zsh                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Devin                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🐱‍💻 Projects: 
-Dawn Song 1              5 mins              ███████████░░░░░░░░░░░░░░   42.13 % 
-Icy Poet 33              3 mins              ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Unknown Project          2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Purple Mode 55           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+RackManage               1 hr 55 mins        ██████████████████░░░░░░░   72.24 % 
+RackManage-Firebase      30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Dawn Song 1              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Icy Poet 33              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
