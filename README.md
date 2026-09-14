@@ -19,28 +19,28 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Vue                      1 hr 38 mins        ████████████████░░░░░░░░░   62.01 % 
-YAML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-TypeScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-sh                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Vue                      1 hr 48 mins        ██████████████░░░░░░░░░░░   54.54 % 
+TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+sh                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 12 mins        ███████████░░░░░░░░░░░░░░   44.55 % 
-VS Code                  1 hr 4 mins         ██████████░░░░░░░░░░░░░░░   39.56 % 
-Zsh                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Devin                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Codex Vscode             1 hr 45 mins        █████████████░░░░░░░░░░░░   52.72 % 
+VS Code                  1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   32.01 % 
+Zsh                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Devin                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🐱‍💻 Projects: 
-RackManage               1 hr 55 mins        ██████████████████░░░░░░░   72.24 % 
-RackManage-Firebase      30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Dawn Song 1              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Icy Poet 33              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+RackManage               2 hrs 33 mins       ███████████████████░░░░░░   77.67 % 
+RackManage-Firebase      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Dawn Song 1              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Icy Poet 33              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
