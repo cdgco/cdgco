@@ -19,28 +19,28 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Vue                      1 hr 48 mins        ███████████░░░░░░░░░░░░░░   44.16 % 
-TypeScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-PowerShell               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-sh                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Vue                      1 hr 50 mins        ███████████░░░░░░░░░░░░░░   43.30 % 
+PowerShell               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+TypeScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        ███████████░░░░░░░░░░░░░░   42.82 % 
-Codex Vscode             1 hr 45 mins        ███████████░░░░░░░░░░░░░░   42.80 % 
-Zsh                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Devin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Codex Vscode             1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   41.80 % 
+VS Code                  1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   41.78 % 
+Claude Code              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Zsh                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Devin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🐱‍💻 Projects: 
-RackManage               2 hrs 33 mins       ████████████████░░░░░░░░░   62.88 % 
-Purple Mode 55           44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-RackManage-Firebase      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Dawn Song 1              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-scratch-2026-09-15-84b73c4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+RackManage               2 hrs 36 mins       ███████████████░░░░░░░░░░   61.24 % 
+Purple Mode 55           50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+RackManage-Firebase      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+scratch-2026-09-15-84b73c15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
