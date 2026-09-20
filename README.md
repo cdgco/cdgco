@@ -19,28 +19,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Vue                      1 hr 50 mins        ███████████░░░░░░░░░░░░░░   43.30 % 
-PowerShell               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-TypeScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PowerShell               39 mins             █████████░░░░░░░░░░░░░░░░   37.90 % 
+TypeScript               25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Other                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+CSV                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Vue                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   41.80 % 
-VS Code                  1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   41.78 % 
-Claude Code              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Zsh                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Devin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+VS Code                  46 mins             ███████████░░░░░░░░░░░░░░   44.52 % 
+Codex Vscode             33 mins             ████████░░░░░░░░░░░░░░░░░   32.02 % 
+Claude Code              19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Zsh                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🐱‍💻 Projects: 
-RackManage               2 hrs 36 mins       ███████████████░░░░░░░░░░   61.24 % 
-Purple Mode 55           50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-RackManage-Firebase      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-scratch-2026-09-15-84b73c15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Purple Mode 55           50 mins             ████████████░░░░░░░░░░░░░   47.73 % 
+RackManage               38 mins             █████████░░░░░░░░░░░░░░░░   36.85 % 
+scratch-2026-09-15-84b73c15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Icy Poet 33              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
