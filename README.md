@@ -19,26 +19,25 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-HTML                     5 hrs 44 mins       ███████████████░░░░░░░░░░   58.54 % 
-TypeScript               2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-sh                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+HTML                     5 hrs 44 mins       ███████████████░░░░░░░░░░   59.23 % 
+TypeScript               2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+sh                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 21 mins       ████████████████░░░░░░░░░   64.88 % 
-Codex Vscode             2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-Zsh                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Claude Code              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+VS Code                  6 hrs 19 mins       ████████████████░░░░░░░░░   65.26 % 
+Codex Vscode             2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Zsh                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🐱‍💻 Projects: 
-Throbbing Lake 41        5 hrs 31 mins       ██████████████░░░░░░░░░░░   56.32 % 
-VelocityMail             3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.93 % 
-scratch-2026-09-21-5369ef15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Purple Mode 55           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Throbbing Lake 41        5 hrs 31 mins       ██████████████░░░░░░░░░░░   56.99 % 
+VelocityMail             3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.40 % 
+scratch-2026-09-21-5369ef15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Mac                      9 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
