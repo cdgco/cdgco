@@ -19,25 +19,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               6 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
-HTML                     5 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
-sh                       2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TypeScript               6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
+HTML                     5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+sh                       4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+JavaScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 17 mins       █████████████░░░░░░░░░░░░   53.64 % 
-Codex Vscode             4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Zsh                      3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+VS Code                  12 hrs 21 mins      ██████████████░░░░░░░░░░░   55.42 % 
+Zsh                      5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Codex Vscode             4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🐱‍💻 Projects: 
-VelocityMail             11 hrs 33 mins      █████████████████░░░░░░░░   66.71 % 
-Throbbing Lake 41        5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
-scratch-2026-09-21-5369ef15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+VelocityMail             16 hrs 21 mins      ██████████████████░░░░░░░   73.35 % 
+Throbbing Lake 41        5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+scratch-2026-09-21-5369ef15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      17 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
