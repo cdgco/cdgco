@@ -19,26 +19,26 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               7 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.94 % 
-sh                       5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-HTML                     4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-JavaScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+TypeScript               7 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.44 % 
+sh                       5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+HTML                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+JavaScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 25 mins      █████████████░░░░░░░░░░░░   52.54 % 
-Zsh                      6 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Codex Vscode             4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+VS Code                  10 hrs              ████████████░░░░░░░░░░░░░   47.09 % 
+Zsh                      6 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Codex Vscode             4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-VelocityMail             18 hrs 51 mins      ████████████████████░░░░░   79.74 % 
-Throbbing Lake 41        4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Purple Mode 55           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Terminal                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+VelocityMail             18 hrs 51 mins      ██████████████████████░░░   88.74 % 
+Throbbing Lake 41        2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Purple Mode 55           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Terminal                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      23 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
