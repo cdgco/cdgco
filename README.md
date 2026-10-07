@@ -19,38 +19,38 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               10 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   31.97 % 
-sh                       6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Vue                      2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Markdown                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-JSON                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+TypeScript               10 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   32.19 % 
+sh                       6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Vue                      2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Markdown                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+JSON                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.98 % 
-Codex Vscode             11 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   35.06 % 
-Zsh                      8 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+VS Code                  12 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   37.96 % 
+Codex Vscode             11 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   35.11 % 
+Zsh                      8 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Claude Code              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 Devin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-VelocityMail             20 hrs 19 mins      ███████████████░░░░░░░░░░   59.88 % 
-amplehelp                6 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+VelocityMail             20 hrs 24 mins      ███████████████░░░░░░░░░░   60.16 % 
+amplehelp                6 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 Terminal                 2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-observe                  1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-RackManage               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+observe                  1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+RackManage               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 💻 Operating System: 
-Mac                      33 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Vue                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
 
