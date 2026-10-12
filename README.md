@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-sh                       3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Other                    2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Markdown                 2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+TypeScript               4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+sh                       4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Markdown                 2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Other                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.86 % 
-VS Code                  8 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
-Zsh                      4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Claude Code              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Codex Vscode             7 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.52 % 
+VS Code                  7 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.17 % 
+Zsh                      4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🐱‍💻 Projects: 
-VelocityMail             14 hrs 2 mins       ████████████████░░░░░░░░░   62.18 % 
-zane-portfolio           3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-amplehelp                2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Terminal                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-observe                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+VelocityMail             10 hrs 49 mins      ██████████████░░░░░░░░░░░   56.10 % 
+amplehelp                3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+zane-portfolio           3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Terminal                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Purple Mode 55           17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Mac                      22 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
