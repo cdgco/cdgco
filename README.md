@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-sh                       3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Markdown                 3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Other                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Terraform                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+sh                       3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Markdown                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Other                    1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Terraform                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 45 mins       ███████████░░░░░░░░░░░░░░   42.88 % 
-VS Code                  5 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
-Zsh                      3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+VS Code                  5 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.37 % 
+Codex Vscode             3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Zsh                      3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+Claude Code              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🐱‍💻 Projects: 
-VelocityMail             10 hrs 24 mins      █████████████████░░░░░░░░   66.13 % 
-amplehelp                2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Terminal                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Sweet Flower 70          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Joyful Snow 73           18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+VelocityMail             7 hrs 15 mins       ███████████████░░░░░░░░░░   58.13 % 
+amplehelp                2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Terminal                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Sweet Flower 70          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Joyful Snow 73           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Mac                      15 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
