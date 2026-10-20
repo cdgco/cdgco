@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   31.26 % 
-Vue                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-sh                       32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-JavaScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Swift                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+TypeScript               1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   31.78 % 
+Vue                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+sh                       32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+JavaScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Swift                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       ██████████████░░░░░░░░░░░   54.70 % 
-Codex Vscode             1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Zsh                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+VS Code                  2 hrs 13 mins       █████████████░░░░░░░░░░░░   53.95 % 
+Codex Vscode             1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+Zsh                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🐱‍💻 Projects: 
-amplehelp                2 hrs 58 mins       ██████████████████░░░░░░░   70.97 % 
-Sweet Flower 70          33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Joyful Snow 73           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Purple Mode 55           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Plain Credit 27          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+amplehelp                2 hrs 58 mins       ██████████████████░░░░░░░   72.15 % 
+Sweet Flower 70          33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Joyful Snow 73           19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Plain Credit 27          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Purple Mode 55           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
