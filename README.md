@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.38 % 
-Vue                      1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-sh                       1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Swift                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-C                        18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+TypeScript               1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.52 % 
+Vue                      1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+sh                       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+C                        18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.15 % 
-Codex Vscode             1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-Zsh                      1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+VS Code                  2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.64 % 
+Zsh                      1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.47 % 
+Codex Vscode             1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-amplehelp                4 hrs 33 mins       ██████████████████████░░░   86.92 % 
-Sweet Flower 70          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-ar                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Purple Mode 55           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+amplehelp                4 hrs 33 mins       ██████████████████████░░░   87.32 % 
+Terminal                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+ar                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Purple Mode 55           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 Plain Credit 27          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
