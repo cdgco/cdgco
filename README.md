@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.52 % 
-Vue                      1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-sh                       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-C                        18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Vue                      1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+TypeScript               1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+sh                       1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+C                        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.64 % 
-Zsh                      1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.47 % 
-Codex Vscode             1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+VS Code                  2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.50 % 
+Codex Vscode             2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.38 % 
+Zsh                      1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-amplehelp                4 hrs 33 mins       ██████████████████████░░░   87.32 % 
-Terminal                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-ar                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Purple Mode 55           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Plain Credit 27          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+amplehelp                4 hrs 33 mins       █████████████████░░░░░░░░   69.76 % 
+RackManage               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Terminal                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Plain Credit 27          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+are-x20                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Mac                      5 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
