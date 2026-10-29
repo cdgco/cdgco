@@ -19,27 +19,27 @@ Hi! My name is Carter Roeser. I'm currently building:
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-TypeScript               1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-sh                       59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-PowerShell               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Other                    1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+TypeScript               1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+PowerShell               47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+sh                       37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.50 % 
-Claude Code              1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Zsh                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Codex Vscode             58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+VS Code                  2 hrs 55 mins       █████████████░░░░░░░░░░░░   50.01 % 
+Claude Code              1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Codex Vscode             56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Zsh                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 
 🐱‍💻 Projects: 
-Dawn Song 1              1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-RackManage               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-MiniMailer               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Purple Mode 55           32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Terminal                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Dawn Song 1              1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+RackManage               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+MiniMailer               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Purple Mode 55           47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+croeser                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 💻 Operating System: 
-Mac                      6 hrs               █████████████████████████   100.00 % 
+Mac                      5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
